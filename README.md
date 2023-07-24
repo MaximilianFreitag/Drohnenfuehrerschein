@@ -288,3 +288,18 @@ Nur A1
  A2 und A3
 
 A1, A2 und A3
+
+<br>
+<br>
+
+Question: 8638
+In welche Unterkategorien ist die OPEN Kategorie aufgeteilt?
+Wählen Sie bitte die richtige Antwort.
+
+C1-C2-C3-C4
+
+C0-C1-C2-C3-C4
+
+- [x] A1–A2–A3
+
+A1–A2–A3–A4
