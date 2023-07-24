@@ -4,7 +4,7 @@
 https://learningzone.eurocontrol.int/
 
 ---------------------------------------------------
-XXXXXXX = Die Antworten auf die Frage ist falsch
+XXXXXXX = Die Antworten auf die Frage sind falsch
 
 Die Antworten der restlichen Fragen sind zu 100% richtig
 ---------------------------------------------------
