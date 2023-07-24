@@ -22,7 +22,7 @@ Wählen Sie die richtige Antwort.
 - Spielzeuge und Drohnen von mehr als 250g und die mit niedriger Geschwindigkeit fliegen (z.B. 35km/h)
 
 
-
+<br>
 
 
 Question: 8116
@@ -38,7 +38,7 @@ Wählen Sie bitte die richtige Antwort.
 - C3 / A2
 
 
-
+<br>
 
 XXXXXXX Question: 8113
 Welche der folgenden Situationen erfordern eine Registrierung des Betreibers?
@@ -54,7 +54,7 @@ Kreuzen Sie bitte die richtigen Antworten an.
 
 - [x] Der Betrieb wird in Stadtgebieten durchgeführt
 
-
+<br>
 
 Question: 8641
 Nach der Übergangszeit (ab dem 1. Januar 2024):
@@ -69,7 +69,7 @@ Wählen Sie bitte die richtige Antwort.
 - fallen Drohnen mit C0-Kennzeichnung in die Unterkategorie A2
 
 
-
+<br>
 
 
 Question: 8111
@@ -85,7 +85,7 @@ Bitte wählen Sie die richtige Antwort.
 - [x] Auf der Internetseite des Amtsblattes der Europäischen Union (www.eur-lex.europa.eu)
 
 
-
+<br>
 
 
 XXXXXXX Question: 9475
@@ -101,7 +101,7 @@ Wählen Sie bitte die richtigen Antworten.
 - [x] Schwere oder tödliche Verletzung einer Person
 
 
-
+<br>
 
 XXXXXXX Question: 8639
 Welchen Abstand müssen Sie von Wohn-, Gewerbe-, Industrie- oder Freizeitgebieten einhalten, wenn Sie eine Drohne in der Unterkategorie A3 fliegen?
@@ -116,7 +116,7 @@ Wählen Sie bitte die richtige Antwort.
 50 Meter
 
 
-
+<br>
 
 
 XXXXXXX Question: 8642
@@ -132,7 +132,7 @@ A1/A2/A3
 Nur A2/A3
 
 
-
+<br>
 
 
 
@@ -151,7 +151,7 @@ Nur A3
 
 
 
-
+<br>
 
 Question: 8650
 Was bedeutet Luftsicherheit?
