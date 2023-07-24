@@ -915,3 +915,34 @@ In der Nähe des Fernpiloten bleiben um eventuelle Risiken bei einem ungewohntem
 
 <br>
 <br>
+
+
+Question: 8662
+Drohnen werden von verschiedenen Faktoren eingeschränkt (Betriebstemperaturbereich, Windbeständigkeit, Wetterbedingungen usw.). Wo kann der Fernpilot diese Informationen finden?
+Wählen Sie bitte die richtige Antwort.
+
+Auf der Internetseite eines beliebigen Händlers
+
+Auf der Internetseite der nationalen Luftfahrtbehörde
+
+In einem Forum für Fernpiloten
+
+- [x] Im Benutzerhandbuch
+
+
+<br>
+<br>
+
+
+
+Question: 8101
+Gemäß der generischen "MEUH"-Checkliste, wie lauten die wichtigsten Sicherheitselemente, die beim Fliegen einer Drohne zu beachten sind?
+Wählen Sie bitte die richtige Antwort.
+
+- [x] Meteorologie, Umgebung, UAS, menschliche Interaktion
+
+Maßnahmen zur Risikominderung, Höhenlage, UAS, Wohngegend
+
+Meteorologie, Höhenlage, UAS, Wohngegend
+
+Maßnahmen zur Risikominderung, Umwelt, UAS, menschliche Interaktion
