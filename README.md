@@ -186,3 +186,20 @@ Nach welchem Label sollten Sie suchen, um sicherzustellen, dass es sich um eine 
 - 0,1,2,3...
 - CE
 - C-UAS
+
+
+
+<br>
+<br>
+
+Question: 8644
+Fabian fliegt seit drei Jahren Drohnen in den Unterkategorien A1 und A3, und jetzt möchte er in der Unterkategorie A2 fliegen. Was muss er dafür tun?
+Wählen Sie die richtige Antwort.
+
+Kenntnisse über Regeln beim Fliegen im kontrollierten Luftraum nachweisen
+
+Eine theoretische Prüfung für die Unterkategorie A2 bestehen und zusätzlich vorher eine praktische Selbstausbildung durchführen
+
+Kenntnisse über den Drohnenbau nachweisen
+
+Eine praktische Prüfung für die Unterkategorie A2 bei einer zugelassenen Drohnenschule bestehen
