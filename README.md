@@ -647,3 +647,27 @@ Cumulus
 Stratus
 
 Cirrus
+
+
+
+<br>
+<br>
+
+
+
+
+Question: 9476
+Welche der folgenden Handlungen könnte als fahrlässig bezeichnet werden?
+Wählen Sie bitte die richtigen Antworten.
+
+- [x] Drohnenbetrieb bei gewittrigem Wetter
+
+- [x] Drohnenbetrieb in der Nähe von touristischen Attraktionen
+
+- [x] Drohnenbetrieb mit hoher Geschwindigkeit in bewohnter Umgebung
+
+- [x] Drohnenbetrieb in der Nähe von Notfalleinsätzen
+- [ ] 
+
+<br>
+<br>
