@@ -880,7 +880,21 @@ Nichts Besonderes, es gilt nur darauf zu achten, vor dem Flug zu essen
 
 Bevor er seine Drohne fliegt, muss er bei einem Augenarzt prüfen, wie sich die Schmerzmittel auf seine Sehkraft auswirken
 
+<br>
+<br>
 
+Question: 8655
+Was könnte passieren, wenn Sie über eine aufgeheizte Asphaltstraße fliegen?
+Wählen Sie bitte die richtige Antwort.
 
+Verlust der Funkverbindung
 
+Fly away
+
+Turbulenzen
+
+- [x] Sensoren erhitzen
+
+<br>
+<br>
 
