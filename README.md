@@ -419,7 +419,7 @@ Die Beobachtung der Stimmung und Verfassung des Fernpiloten
 <br>
 
 
-Question: 8659
+xxxxxxxx Question: 8659
 Wo findet man die stärksten mechanischen Turbulenzen?
 
 - Im Wind
@@ -428,7 +428,7 @@ Wo findet man die stärksten mechanischen Turbulenzen?
 
 - Auf dem offenen Feld
 
-- [x]  Über Bäumen
+xxxxxxxx  Über Bäumen
 
 
 
@@ -454,7 +454,7 @@ I'M WELL (Insulin, Medikamente, Weisheit, Emotionen, Ophtalmologie, Läsionen)
 <br>
 
 
-Question: 8125
+xxxxxxxx Question: 8125
 Die grundlegenden Wetterbedingungen, die Sie vor dem Start als Teil Ihrer Sicherheitscheckliste "MEUH" überprüfen sollten, sind:
 Kreuzen Sie bitte die richtigen Antworten an.
 
@@ -476,7 +476,7 @@ Ozon-Konzentration
 <br>
 
 
-Question: 8107
+xxxxxxxxx Question: 8107
 Wo finden Sie die aktuelle Liste der geografischen UAS-Gebiete in Luxemburg?
 Wählen Sie bitte die richtige Antwort.
 
@@ -484,7 +484,7 @@ Auf der Internetseite der Eurocontrol
 
 Auf der Internetseite der Europäischen Agentur für Flugsicherheit (EASA)
 
-- [x]  Auf der Internetseite der nationalen Flugsicherungsbehörde (Administration de la Navigation Aérienne - ANA)
+xxxxxxxx  Auf der Internetseite der nationalen Flugsicherungsbehörde (Administration de la Navigation Aérienne - ANA)
 
 Auf der Internetseite der nationalen Luftfahrtbehörde (Direktion der Zivilen Luftfahrt - DAC)
 
@@ -555,3 +555,95 @@ Weil Sie möglicherweise bei einem in der Nähe aufgetreteten Notfall helfen kö
 Da es wichtig ist eine erhöhte Aktivität auf dem nächstgelegenen Flugplatz zu erkennen
 
 - [x] Da bemannte Flugzeuge die Drohnen nicht erkennen somit Ihnen nicht ausweichen können
+
+
+<br>
+<br>
+
+
+Question: 8656
+Ab wann handelt es sich um einen Drohnenbetrieb bei NACHT?
+Wählen Sie bitte die richtige Antwort.
+
+30 Minuten vor Sonnenuntergang bis 30 Minuten vor Sonnenaufang
+
+- [x] 30 Minuten nach Sonnenuntergang bis 30 Minuten vor Sonnenaufgang
+
+30 Minuten nach Sonnenuntergang bis 30 Minuten nach Sonnenaufgang
+
+30 Minuten vor Sonnenuntergang bis 30 Minuten nach Sonnenaufgang
+
+
+
+
+<br>
+<br>
+
+
+Question: 8653
+Welcher der folgenden Risikofaktoren muss bei Minusgraden berücksichtigt werden?
+Wählen Sie bitte die richtige Antwort.
+
+Das Risiko überhitzter Batterien, da durch die Kälte mehr Energie benötigt wird
+
+- [x] Die Gefahr von Eisbildung an den Propellern
+
+Die Gefahr von Eisbildung auf der Fernsteuerung
+
+Verminderter Luftwiderstand der auf die Propeller wirkt
+
+
+
+
+<br>
+<br>
+
+
+Question: 8671
+Was trifft zu für Müdigkeit beim Fliegen von Drohnen?
+Bitte wählen Sie die richtige Antwort.
+
+Müdigkeit wird Sie als Fernpilot während eines Drohnenfluges nicht beeinträchtigen
+
+- [x] Fliegen bei Müdigkeit ist genauso gravierend und kann die gleichen Folgen haben wie Fliegen unter Alkoholeinfluss
+
+Fliegen bei Müdigkeit macht Sie wacher und aufmerksamer
+
+Die Pupillen der Augen erweitern sich bei Müdigkeit, wodurch Sie im Dunkeln besser sehen
+
+
+<br>
+<br>
+
+
+
+xxxxxxxx Question: 8133
+Wie nennt man die Bewegung um die Querachse?
+Wählen Sie bitte die richtige Antwort.
+
+
+Nicken 
+
+Drosseln
+
+Gieren
+
+xxxxxxxx Rollen
+
+
+<br>
+<br>
+
+
+Question: 8126
+Welche dieser Wolken ist die gefährlichste für den Drohnenbetrieb?
+Wählen Sie bitte die richtige Antwort.
+
+
+Cumulus
+
+- [x] Cumulonimbus
+
+Stratus
+
+Cirrus
