@@ -380,3 +380,161 @@ XXXXXXX = Die Antworten auf die Frage ist falsch
 
 Die Antworten der restlichen Fragen sind zu 100% richtig
 ---------------------------------------------------
+
+
+Question: 8658
+Welchen Einfluss kann dünnere Luft in größerer Höhe, z. B. in den Bergen, auf die Drohne haben?
+Wählen Sie bitte die richtige Antwort.
+
+Es kann für die Batterien einfacher sein Energie zu generieren
+
+- [x] Die Motoren müssen härter arbeiten um die gleiche Leistung zu erzielen
+
+Die Flugzeit kann sich verlängern
+
+Sie wird überhaupt nicht beeinflusst
+
+
+<br>
+<br>
+
+
+Question: 8669
+Was ist die grundlegende Aufgabe eines Beobachters?
+Wählen Sie bitte die richtige Antwort.
+
+Die Überprüfung des Luftraums kurz vor dem Start.
+
+Die Überwachung des Drohnensystems, um sicherzustellen, dass alles ordnungsgemäß funktioniert
+
+Die Beobachtung der Stimmung und Verfassung des Fernpiloten
+
+- [x] Die Erkennung von Gefahren im Luftraum und am Boden
+
+
+
+
+
+<br>
+<br>
+
+
+Question: 8659
+Wo findet man die stärksten mechanischen Turbulenzen?
+
+- Im Wind
+
+- An einer Dachschrägen 
+
+- Auf dem offenen Feld
+
+- [x]  Über Bäumen
+
+
+
+<br>
+<br>
+
+
+
+Question: 8118
+Mit Bezug auf menschliche Faktoren, wie lautet die wichtigste Sicherheits-Checkliste, mit der Sie Ihre Fähigkeit, einen sicheren Flug durchzuführen, bewerten können?
+Bitte wählen Sie die richtige Antwort.
+
+I'M GOOD (Insulin, Metabolismus, Glykämie, Ophtalmologie, Orthopädie, Krankheit )
+
+- [x]  I'M SAFE (Indisposition - Krankheit, Medikamente, Stress, Alkohol, Flauheit - Müdigkeit, Emotionen)
+
+I'M OK (Indisposition - Krankheit, Metabolismus, Ophtalmologie, Kenntnis)
+
+I'M WELL (Insulin, Medikamente, Weisheit, Emotionen, Ophtalmologie, Läsionen)
+
+
+<br>
+<br>
+
+
+Question: 8125
+Die grundlegenden Wetterbedingungen, die Sie vor dem Start als Teil Ihrer Sicherheitscheckliste "MEUH" überprüfen sollten, sind:
+Kreuzen Sie bitte die richtigen Antworten an.
+
+- [x]  Wind
+
+- [x]  Regen & Wolken
+
+- [x]  QNH Luftdruck
+
+Luftverschmutzungsgrad
+
+Ozon-Konzentration
+
+- [x]  Temperatur
+
+
+
+<br>
+<br>
+
+
+Question: 8107
+Wo finden Sie die aktuelle Liste der geografischen UAS-Gebiete in Luxemburg?
+Wählen Sie bitte die richtige Antwort.
+
+Auf der Internetseite der Eurocontrol
+
+Auf der Internetseite der Europäischen Agentur für Flugsicherheit (EASA)
+
+- [x]  Auf der Internetseite der nationalen Flugsicherungsbehörde (Administration de la Navigation Aérienne - ANA)
+
+Auf der Internetseite der nationalen Luftfahrtbehörde (Direktion der Zivilen Luftfahrt - DAC)
+
+
+
+<br>
+<br>
+
+
+Question: 8134
+Welche dieser Aussagen ist NICHT richtig?
+Wählen Sie bitte die richtige Antwort.
+
+Beim autonomen Drohnenbetrieb hat der Fernpilot keine Möglichkeit in das Flugverhalten der Drohne einzugreifen
+
+Die meisten freiverkäuflichen Drohnen verfügen über ein Stabilisierungssystem, durch dessen Ausfall der Flug erheblich erschwert wird
+
+- [x] Es ist einfacher ein "Modellflugzeug" als eine "Drohne" zu fliegen, da Modellflugzeuge simpeler konzipiert sind
+
+Der Drohnenbetrieb im autonomem Flugmodus ist in der offenen Kategorie verboten, außer bei Notfällen
+
+
+<br>
+<br>
+
+Question: 8654
+Was müssen Sie beachten, wenn Sie in einer grösseren Höhe über dem Boden fliegen? (z.B. Flughöhe von 80m statt 15m)
+Wählen Sie bitte die richtige Antwort.
+
+- [x] Dass der Wind oft stärker ist
+
+Dass der Wind schwächer ist
+
+Dass die Luft dichter ist
+
+Dass es öfters wärmer wird
+
+
+<br>
+<br>
+
+
+Question: 8665
+Als Fernpilot MÜSSEN Sie vertraut sein mit:
+Wählen Sie bitte die richtige Antwort.
+
+Den Drohnen-Tutorials im Internet
+
+Den aerodynamischen Prinzipien von bemannten Leichtflugzeugen
+
+Den Informationen, die sich in den Onlineforen für Drohnen befinden
+
+- [x] Den Informationen im Benutzerhandbuch
