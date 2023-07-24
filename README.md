@@ -1049,8 +1049,21 @@ Lagern Sie die Drohne außerhalb der Verpackung an einem dunkelen Ort
 - [x] Führen Sie ein Flugbuch über Ereignisse und Reparaturen
 
 - [x] überprüfen Sie Ihre Drohne nach dem Betrieb
-- [ ] 
+
 
 
 <br>
 <br>
+
+
+Question: 9490
+Bei der Einstellung der Flugparameter ist große Vorsicht geboten:
+Kreuzen Sie bitte die richtigen Antworten an.
+
+Bei den GPS-Koordinaten für die beste Aussicht
+
+- [x] Bei der maximalen Flughöhe
+
+Beim Zooming der Kamera
+
+- [x] Bei der RTH-Höhe
