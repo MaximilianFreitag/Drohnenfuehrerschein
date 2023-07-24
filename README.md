@@ -256,3 +256,19 @@ Mit Freunden geteilt werden
 Als Benutzername im Forum genutzt werden
 
 In den sozialen Medien geteilt werden
+
+
+<br>
+<br>
+
+Question: 8112
+In welchen Ländern sind die Bestimmungen der Verordnung 2019/947 anwendbar?
+Bitte wählen Sie die richtige Antwort.
+
+Nur in Belgien, in den Niederlanden und in Luxemburg (BENELUX)
+
+- [x] In den EU-Mitgliedstaaten und der Schweiz, Norwegen, Island und Liechtenstein
+
+Nur in Luxemburg
+
+Nur in Luxemburg, Deutschland, Frankreich und Belgien
