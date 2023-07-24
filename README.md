@@ -93,13 +93,13 @@ Bitte wählen Sie die richtige Antwort.
 <br>
 
 
-XXXXXXX Question: 9475
+Question: 9475
 Welche Zwischenfälle sind meldepflichtig?
 Wählen Sie bitte die richtigen Antworten.
 
 - [x] Luftraumkonflikt
 
-- [x] Beschädigung von Eigentum
+- Beschädigung von Eigentum
 
 - [x] Durch eine Drohne verursachter Autounfall mit Schwerverletzten
 
