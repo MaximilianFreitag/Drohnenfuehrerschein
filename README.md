@@ -37,14 +37,14 @@ Question: 8113
 Welche der folgenden Situationen erfordern eine Registrierung des Betreibers?
 Kreuzen Sie bitte die richtigen Antworten an.
 
-- Der Betreiber fliegt eine Drohne (kein Spielzeug) mit einer Kamera
+- [x] Der Betreiber fliegt eine Drohne (kein Spielzeug) mit einer Kamera
 
-- Der Betreiber fliegt eine Drohne mit einem maximalen Startgewicht von 250g oder mehr
+- [x] Der Betreiber fliegt eine Drohne mit einem maximalen Startgewicht von 250g oder mehr
 
 - Der Betreiber fliegt die Drohne mit einer sehr hohen Geschwindigkeit (Beispiel: 120km/h)
 
-- Der Betrieb wird im kontrollierten Luftraum durchgeführt
+- [x] Der Betrieb wird im kontrollierten Luftraum durchgeführt
 
-- Der Betrieb wird in Stadtgebieten durchgeführt
+- [x] Der Betrieb wird in Stadtgebieten durchgeführt
 
 
