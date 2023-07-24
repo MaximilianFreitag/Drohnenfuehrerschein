@@ -1,5 +1,6 @@
 # Drohnenfuehrerschein
 
+### Modul 1 - Prüfung
 
 ---------------------------------------------------
 XXXXXXX = Die Antwort auf die Frage ist falsch
@@ -171,3 +172,16 @@ Ausweichregeln im Luftraum
 Eine Drohnenfunktion, die das Eindringen in gesperrten Luftraum verhindert
 
 Eine Versicherung die Schäden und Unfälle deckt, die durch den Flugverkehr verursacht werden
+
+
+<br>
+<br>
+
+
+Question: 8643
+Nach welchem Label sollten Sie suchen, um sicherzustellen, dass es sich um eine Drohne mit C-Kennzeichnung handelt?
+
+- CE0,CE1,CE2...
+- 0,1,2,3...
+- CE
+- C-UAS
