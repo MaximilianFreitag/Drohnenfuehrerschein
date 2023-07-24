@@ -6,13 +6,13 @@ Question: 8646
 Bei welchen Drohnen müssen Sie sich NICHT als Drohnenbertreiber registrieren?
 Wählen Sie die richtige Antwort.
 
-[] Spielzeuge und Drohnen von weniger als 250g, die mit hoher Geschwindigkeit fliegen (z.B. 130km/h)
+- [] Spielzeuge und Drohnen von weniger als 250g, die mit hoher Geschwindigkeit fliegen (z.B. 130km/h)
 
-[] Spielzeuge und Drohnen von mehr als 250g und die mit hoher Geschwindigkeit fliegen (z.B. 120km/h)
+- [] Spielzeuge und Drohnen von mehr als 250g und die mit hoher Geschwindigkeit fliegen (z.B. 120km/h)
 
-[x] Spielzeuge und Drohnen von weniger als 250g, die mit niedriger Geschwindigkeit fliegen (z.B. 45km/h)
+- [x] Spielzeuge und Drohnen von weniger als 250g, die mit niedriger Geschwindigkeit fliegen (z.B. 45km/h)
 
-[] Spielzeuge und Drohnen von mehr als 250g und die mit niedriger Geschwindigkeit fliegen (z.B. 35km/h)
+- [] Spielzeuge und Drohnen von mehr als 250g und die mit niedriger Geschwindigkeit fliegen (z.B. 35km/h)
 
 
 
