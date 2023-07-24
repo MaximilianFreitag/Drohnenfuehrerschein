@@ -183,8 +183,8 @@ XXXXXXX Question: 8643
 Nach welchem Label sollten Sie suchen, um sicherzustellen, dass es sich um eine Drohne mit C-Kennzeichnung handelt?
 
 - CE0,CE1,CE2...
-- 0,1,2,3...
-- [x] CE
+- [x] 0,1,2,3...
+-  CE
 - C-UAS
 
 
