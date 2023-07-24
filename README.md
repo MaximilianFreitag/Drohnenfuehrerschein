@@ -476,7 +476,7 @@ Ozon-Konzentration
 <br>
 
 
-xxxxxxxxx Question: 8107
+ Question: 8107
 Wo finden Sie die aktuelle Liste der geografischen UAS-Gebiete in Luxemburg?
 Wählen Sie bitte die richtige Antwort.
 
@@ -484,9 +484,9 @@ Auf der Internetseite der Eurocontrol
 
 Auf der Internetseite der Europäischen Agentur für Flugsicherheit (EASA)
 
-xxxxxxxx  Auf der Internetseite der nationalen Flugsicherungsbehörde (Administration de la Navigation Aérienne - ANA)
+  Auf der Internetseite der nationalen Flugsicherungsbehörde (Administration de la Navigation Aérienne - ANA)
 
-Auf der Internetseite der nationalen Luftfahrtbehörde (Direktion der Zivilen Luftfahrt - DAC)
+- [x] Auf der Internetseite der nationalen Luftfahrtbehörde (Direktion der Zivilen Luftfahrt - DAC)
 
 
 
