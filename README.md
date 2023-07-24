@@ -1,4 +1,4 @@
-# Drohnenfuehrerschein
+# Kleiner Drohnenfuehrerschein A1/A3
 
 ### Modul 1 - Prüfung
 https://learningzone.eurocontrol.int/
