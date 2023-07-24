@@ -203,3 +203,22 @@ Kenntnisse über Regeln beim Fliegen im kontrollierten Luftraum nachweisen
 Kenntnisse über den Drohnenbau nachweisen
 
 Eine praktische Prüfung für die Unterkategorie A2 bei einer zugelassenen Drohnenschule bestehen
+
+
+
+<br>
+<br>
+
+
+
+Question: 8114
+Was bedeutet das folgende Sicherheitsprinzip: Umso schwerer, umso weiter, umso sicherer?
+Wählen Sie bitte die richtige Antwort.
+
+- [x] Mit einer schwereren Drohne ist es sicherer, weiter weg von unbeteiligten Personen und Grundstücken zu fliegen, um Verletzungen und Schäden zu vermeiden
+
+Mit einer schwereren Drohne ist es sicherer, weiter weg vom Boden zu fliegen, um einen Absturz auf Menschen und Hindernisse zu vermeiden
+
+Mit einer schwereren Drohne ist es sicherer, weiter entfernt vom Piloten zu fliegen, um die Drohne sicher kontrollieren zu können
+
+Mit einer schwereren Drohne ist es sicherer, näher am Boden zu fliegen, um mögliche Verletzungen von Personen und Schäden bei einem Absturz zu reduzieren
