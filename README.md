@@ -422,7 +422,7 @@ Die Beobachtung der Stimmung und Verfassung des Fernpiloten
 xxxxxxxx Question: 8659
 Wo findet man die stärksten mechanischen Turbulenzen?
 
-- Im Wind
+xxxxxxxxx Im Wind
 
 - An einer Dachschrägen 
 
@@ -622,7 +622,7 @@ Wie nennt man die Bewegung um die Querachse?
 Wählen Sie bitte die richtige Antwort.
 
 
-Nicken 
+xxxxxxxx Nicken 
 
 Drosseln
 
@@ -701,3 +701,186 @@ Registrierungsnummer des UAS-Betreibers in das direkte Fernidentifikationssystem
 Daten über geografische UAS-Gebiete in das Geo-Sensibilisierungssystem
 
 AIP-Daten des Tages (Aeronautical Information Publication)
+
+
+
+<br>
+<br>
+
+
+Question: 8103
+Warum wird die Flughöhe in der OPEN Kategorie durch die Verordnung begrenzt?
+Wählen Sie bitte die richtige Antwort.
+
+Oberhalb dieser Höhe ist der Wind für die Nutzer der OPEN Kategorie zu stark
+
+Oberhalb dieser Höhe beginnen sich die Wolken zu entwickeln, was den Sichtkontakt mit der Drohne beeinträchtigt
+
+Oberhalb dieser Höhe wird die Funkwellenausbreitung der Fernsteuerung durch die fehlende Luft eingeschränkt
+
+- [x] Oberhalb dieser Höhe könnte die Drohne den allgemeinen Flugverkehr beeinträchtigen
+
+
+
+<br>
+<br>
+
+
+
+Question: 8109
+Welche(r) der folgenden Orte ist/sind in der Regel Teil von den geografischen UAS-Gebieten?
+Wählen Sie bitte die richtige Antwort.
+
+Gebiete mit Windkraftanlagen;
+
+Hohe Stromleitungen;
+
+Hohe Gebäude in städtischer Umgebung;
+
+- [x]  Flughäfen und Flugfelder;
+ 
+
+<br>
+<br>
+
+
+Question: 8104
+Wofür steht das Akronym VLOS?
+Wählen Sie bitte die richtige Antwort.
+
+- [x]  Visual Line Of Sight - Visuelle Sichtlinie
+
+Visual Limitation On Site - Visuelle Einschränkung vor Ort
+
+Virtual Limitation On Site - Virtuelle Einschränkung vor Ort
+
+Virtual Line Of Sight - Virtuelle Sichtlinie
+
+
+
+<br>
+<br>
+
+
+Question: 8132
+Es regnet und Sie wissen nicht, ob Ihre Drohne unter diesen Bedingungen fliegen kann. Wo können Sie diese Information finden?
+Wählen Sie bitte die richtige Antwort.
+
+In einem Forum für Fernpiloten
+
+Auf der Internetseite eines beliebigen Händlers
+
+- [x] Im Benutzerhandbuch
+
+Auf der Internetseite der nationalen Luftfahrtbehörde
+
+
+<br>
+<br>
+
+
+xxxxxxxx Question: 8134
+Welche dieser Aussagen ist NICHT richtig?
+Wählen Sie bitte die richtige Antwort.
+
+Es ist einfacher ein "Modellflugzeug" als eine "Drohne" zu fliegen, da Modellflugzeuge simpeler konzipiert sind
+
+Die meisten freiverkäuflichen Drohnen verfügen über ein Stabilisierungssystem, durch dessen Ausfall der Flug erheblich erschwert wird
+
+Beim autonomen Drohnenbetrieb hat der Fernpilot keine Möglichkeit in das Flugverhalten der Drohne einzugreifen
+
+- [x] Der Drohnenbetrieb im autonomem Flugmodus ist in der offenen Kategorie verboten, außer bei Notfällen
+
+
+
+<br>
+<br>
+
+
+Question: 8130
+Was sollten Sie tun, wenn während dem Drohnenbetrieb ein Fahrradfahrer unter Ihrer 10 kg schweren Drohne stehen bleibt?
+Wählen Sie bitte die richtige Antwort.
+
+Sie sollten Ihre Drohne stationär halten bis der Fahrradfahrer weg fährt
+
+- [x] Sie sollten Ihre Drohne schnellstens wegfliegen um einen Überflug zu vermeiden
+
+Sie sollten den Fahrradfahrer darüber informieren, dass er gerade von einer Drohne überflogen wird
+
+Sie sollten die Drohne so hoch wie möglich aufsteigen lassen, um eine sichere Distanz zum Fahrradfahrer halten zu können
+
+
+
+<br>
+<br>
+
+
+xxxxxxxx Question: 9481
+Besondere Aufmerksamkeit ist geboten beim Hochladen von:
+Wählen Sie bitte die richtigen Antworten.
+
+- [x] Daten über geografische UAS-Gebiete in das Geo-Sensibilisierungssystem
+
+- [x] AIP-Daten des Tages (Aeronautical Information Publication)
+
+- [x] Registrierungsnummer des UAS-Betreibers in das direkte Fernidentifikationssystem
+
+- [x] persöhnlichen Identifikations-Daten
+
+
+<br>
+<br>
+
+
+Question: 8665
+Als Fernpilot MÜSSEN Sie vertraut sein mit:
+Wählen Sie bitte die richtige Antwort.
+
+Den Informationen, die sich in den Onlineforen für Drohnen befinden
+
+Den Drohnen-Tutorials im Internet
+
+Den aerodynamischen Prinzipien von bemannten Leichtflugzeugen
+
+- [x] Den Informationen im Benutzerhandbuch
+
+
+<br>
+<br>
+
+
+Question: 8657
+Olivia macht Urlaub im Ausland und ist sich nicht sicher, ob der Park, in dem sie ihre Drohne fliegen will, Teil eines geografischen UAS-Gebietes ist. Wie kann sie herausfinden ob dies der Fall ist?
+Wählen Sie bitte die richtige Antwort.
+
+Über das Fernidentifikationssystem
+
+- [x] Über die Internetseite der Europäischen Agentur für Flugsicherheit unter " Drohnen - zuständige nationale Luftfahrtbehörden "
+
+Über die luxemburgische Internetseite "MyGuichet"
+
+Durch das Anrufen beim luxemburgischen Kataster- und Vermessungsamt
+
+
+<br>
+<br>
+
+
+
+
+Question: 8670
+Lucas leidet seit geraumer Zeit unter starken Rückenschmerzen. Sein Arzt hat ihm nun starke Schmerzmittel verschrieben, die er eine Woche lang morgens und abends einnehmen soll. Was muss Lucas beachten, bevor er seine Drohne fliegt?
+Wählen Sie bitte die richtige Antwort.
+
+Er muss eine Bescheinigung seines Arztes anfordern die besagt, dass er flugtauglich ist.
+
+Nichts Besonderes, es gilt nur darauf zu achten, vor dem Flug zu essen
+
+- [x] Er darf bis zum Ende der Behandlung nicht fliegen, da Arzneimittel sein Verhalten und seine Urteilsfähigkeit beeinträchtigen können
+
+Bevor er seine Drohne fliegt, muss er bei einem Augenarzt prüfen, wie sich die Schmerzmittel auf seine Sehkraft auswirken
+
+
+
+
+
