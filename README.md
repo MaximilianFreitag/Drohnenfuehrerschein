@@ -1,5 +1,5 @@
 # Drohnenfuehrerschein
-Drohnenführerschein
+
 
 ---------------------------------------------------
 XXXXXXX = Die Antwort auf die Frage ist falsch
