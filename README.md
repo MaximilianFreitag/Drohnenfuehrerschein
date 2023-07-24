@@ -198,7 +198,7 @@ Wählen Sie die richtige Antwort.
 
 Kenntnisse über Regeln beim Fliegen im kontrollierten Luftraum nachweisen
 
-Eine theoretische Prüfung für die Unterkategorie A2 bestehen und zusätzlich vorher eine praktische Selbstausbildung durchführen
+- [x] Eine theoretische Prüfung für die Unterkategorie A2 bestehen und zusätzlich vorher eine praktische Selbstausbildung durchführen
 
 Kenntnisse über den Drohnenbau nachweisen
 
