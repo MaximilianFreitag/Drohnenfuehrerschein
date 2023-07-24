@@ -242,3 +242,17 @@ Wählen Sie bitte die richigen Antworten.
 
 <br>
 <br>
+
+
+
+Question: 8138
+Ihre Identifikationsnummer als Drohnenbetreiber sollte:
+Wählen Sie die richtige Antwort.
+
+- [x] So vertraulich wie möglich gehalten werden
+
+Mit Freunden geteilt werden
+
+Als Benutzername im Forum genutzt werden
+
+In den sozialen Medien geteilt werden
