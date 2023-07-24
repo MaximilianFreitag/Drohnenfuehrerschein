@@ -1117,3 +1117,163 @@ einmal in der Woche
 - [x] vor jedem Flug
 
 einmal im Monat
+
+
+<br>
+<br>
+
+
+Question: 8100
+Ist es erlaubt während eines Fluges in der OPEN Kategorie etwas von einer Drohne abzuwerfen?
+Wählen Sie bitte die richtige Antwort.
+
+Ja, wenn das Gewicht des abgeworfenen Gegenstandes unter 120g liegt
+
+Ja, wenn die Abwurfhöhe unter 5m liegt
+
+Nein, aber eine Liste mit Ausnahmen ist von der zuständigen Behörde definiert
+
+- [x] Nein, das Abwerfen ist in der OPEN Kategorie nie erlaubt
+
+
+<br>
+<br>
+
+
+Question: 8102
+Wie lautet die maximale Flughöhe in der Open Kategorie?
+Wählen Sie bitte die richtige Antwort.
+
+- [x] 120m
+
+150m
+
+50m
+
+90m
+
+
+<br>
+<br>
+
+
+xxxxxxxxx Question: 8105
+Was sollten Sie während des Drohnenbetriebs bei einem Luftkonflikt mit einem bemannten Flugzeug tun ?
+Wählen Sie bitte die richtige Antwort.
+
+- [x] Sie sollten die Ausweichregeln der Luftfahrt befolgen.
+
+Sie sollten so hoch wie möglich steigen und Ihre Drohne über das bemannte Flugzeug hinweg fliegen
+
+Sie sollten die Drohne so tief wie möglich sinken und, wenn möglich, sie sofort landen.
+
+Sie sollten im stationären Flug bleiben und darauf warten, dass das bemannte Flugzeug Ihrer Drohne ausweicht
+
+
+<br>
+<br>
+
+
+Question: 8119
+Welchen Einfluss hat Alkohol auf das Verhalten eines Fernpiloten?
+Wählen Sie bitte die richtige Antwort.
+
+Verbessert das Situationsbewusstsein
+
+Verbessert die Reaktivität während des Betriebs
+
+- [x] Verzögert die Reaktionszeit
+
+Verbessert die Visualisierung der Drohne
+
+
+<br>
+<br>
+
+
+
+Question: 8680
+Das Situationsbewusstsein des Fernpiloten besteht in:
+Wählen Sie bitte die richtige Antwort.
+
+Der Fähigkeit des Piloten eine Drohne aus der Ich-Perspektive zu betreiben
+
+Der Fähigkeit des Piloten eine Drohne außerhalb des direkten Sichtfeldes zu betreiben
+
+Der Fähigkeit des Piloten eine Drohne mit Unterstützung eines Beobachters zu fliegen
+
+- [x]  Der Fähigkeit des Piloten jedes mögliche Risiko in der Betriebsumgebung wahrzunehmen, zu verstehen und dementsprechend zu handeln
+
+
+
+<br>
+<br>
+
+
+Question: 8106
+Ist es zulässig Personen zu überfliegen, die nicht am Drohnenbetrieb beteiligt sind?
+Bitte wählen Sie die richtige Antwort.
+
+Ja, es ist zulässig wenn Sie niedriger als 10m fliegen
+
+Ja, es ist zulässig wenn Sie höher als 10m fliegen
+
+- [x]  Nein, es ist generell nicht zulässig
+
+Ja, es ist ohne Einschränkungen erlaubt.
+
+<br>
+<br>
+
+Question: 8679
+Was bedeutet VLOS ?
+Wählen Sie bitte die richtige Antwort.
+
+Dass ich in horizontaler Entfernung nahe an Menschen fliege
+
+Dass Sie vor dem Flug die Wettervorhersagen überprüft haben
+
+Dass Sie Ihre Drohne so weit weg fliegen, dass diese nicht mehr in Sichtweite ist
+
+- [x]  Dass Sie Ihre Drohne während des gesamten Fluges in Sichtweite halten
+  
+
+<br>
+<br>
+
+
+Question: 8137
+Ist es in Luxemburg erforderlich Ihre Drohne für Freizeitaktivitäten zu versichern?
+Wählen Sie bitte die richtige Antwort.
+
+Ja, wenn sie mehr als 20kg wiegt
+
+Ja, wenn sie mehr als 5kg wiegt
+
+- [x]  Ja, unabhängig vom Gewicht
+
+Ja, wenn Sie mehr als 2kg wiegt
+
+
+<br>
+<br>
+
+
+Question: 8108
+Ist es erlaubt innerhalb der geographischen UAS-Gebiete zu fliegen?
+Bitte wählen Sie die richtige Antwort.
+
+Nein, alle Flüge unterliegen einer Genehmigungspflicht bei der zuständigen Behörde
+
+Ja, solange die Drohne weniger als 2kg wiegt und die Wetterbedingungen gut sind
+
+- [x]  Flüge in Übereinstimmung mit den geltenden Bedingungen und/oder Einschränkungen innerhalb der Gebiete sind erlaubt
+
+Ja, solange die Flughöhe auf 50m begrenzt ist und die Wetterbedingungen gut sind
+
+
+<br>
+<br>
+
+
+
