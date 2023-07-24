@@ -1003,7 +1003,7 @@ Sie fliegen die Drohne in der Nähe von Menschen, damit diese die Drohne auffang
 <br>
 
 
-Question: 9489
+xxxxxxxx Question: 9489
 Wenn Sie eine Aufnahme im Dronie-Modus planen:
 Bitte kreuzen Sie die richtigen Antworten an.
 
@@ -1021,7 +1021,7 @@ Sollten Sie die Menschen in Ihrer Umgebung informieren, sich nicht zu bewegen
 <br>
 
 
-Question: 9491
+xxxxxxxxx Question: 9491
 Welche Maßnahmen sind zu ergreifen, wenn Sie die Funkverbindung zu Ihrer Drohne verlieren?
 Kreuzen Sie bitte die richtigen Antworten an.
 
