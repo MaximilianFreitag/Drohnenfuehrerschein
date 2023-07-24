@@ -1087,3 +1087,33 @@ Objekte in der Nähe des Drohnenbetriebs sollten mithilfe von
 Optischen Hilfsmitteln erkannt werden. Es sollte eine Strategie ausgearbeitet werden, um diesen Objekten auszuweichen. Auf Grundlage dieser Strategie sollte der Fernpilot eine Entscheidung ("Decision") treffen und entsprechend Agieren.
 
 Versäumnisse sind auch im Drohnenbetrieb Obwaltend. Empfehlungen von Ortskundigen Experten sollten deshalb berücksichtigt werden. Auf Grundlage dieser Informationen sollte der Fernpilot eine Entscheidung ("Decision") treffen und entsprechend Agieren.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Abschlussprüfung
+https://learningzone.eurocontrol.int/
+
+---------------------------------------------------
+XXXXXXX = Die Antworten auf die Frage sind falsch
+
+Die Antworten der restlichen Fragen sind zu 100% richtig
+---------------------------------------------------
+
+
+Question: 8123
+Die Überprüfung der Drohne, als Teil der Sicherheits-Checkliste "MEUH", sollte durchgeführt werden:
+Bitte wählen Sie die richtige Antwort.
+
+während der jährlichen Wartung
+
+einmal in der Woche
+
+- [x] vor jedem Flug
+
+einmal im Monat
