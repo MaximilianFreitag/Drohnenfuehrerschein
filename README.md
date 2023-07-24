@@ -338,3 +338,20 @@ Den Zwischenfall bei der EASA melden
 Den Zwischenfall bei der Polizei melden
 
 - [x] Den Zwischenfall auf www.aviationreporting.eu melden
+
+
+<br>
+<br>
+
+
+Question: 8135
+Ist es erlaubt Fotos oder Videos von Personen in deren privatem Umfeld zu machen?
+Wählen Sie die richtige Antwort.
+
+Ja, wenn diese Bilder und Videos an öffentlichen Orten aufgenommen werden
+
+Ja, wenn diese Bilder und Videos im privaten Kreis aufgenommen werden
+
+Ja, wenn diese Bilder und Videos nicht im Internet geteilt werden
+
+- [x] Nein, vorausgesetzt Sie haben deren Erlaubnis
