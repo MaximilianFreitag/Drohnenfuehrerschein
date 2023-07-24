@@ -946,3 +946,111 @@ Maßnahmen zur Risikominderung, Höhenlage, UAS, Wohngegend
 Meteorologie, Höhenlage, UAS, Wohngegend
 
 Maßnahmen zur Risikominderung, Umwelt, UAS, menschliche Interaktion
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+### Modul 3 - Prüfung (Multiple Choice)
+https://learningzone.eurocontrol.int/
+
+---------------------------------------------------
+XXXXXXX = Die Antworten auf die Frage sind falsch
+
+Die Antworten der restlichen Fragen sind zu 100% richtig
+---------------------------------------------------
+
+
+Question: 9494
+Welche Maßnahmen sollten Sie ergreifen, wenn die Batterie schwach wird?
+Kreuzen Sie bitte die richtigen Antworten an.
+
+bei Erreichen von 10 % - Sie planen den Rückflug, bei 5 %
+
+- [x] bei Erreichen von 10 % - landen Sie sofort
+
+- [x] bei Erreichen von 25 % - bringen Sie die Drohne zurück zum Landeplatz
+
+bei Erreichen von 25% - landen Sie sofort, egal was Sie überfliegen
+
+
+
+<br>
+<br>
+
+
+
+Question: 8678
+Sie haben gerade Ihre brandneue Drohne erhalten und fliegen sie zum ersten Mal
+Bitte wählen Sie die richtige Antwort.
+
+Sie fliegen die Drohne zusammen mit Freunden, die helfen wollen und entdecken möchten wie sie funktioniert
+
+Sie fliegen die Drohne im Park oder in einem Freizeitgebiet in der Nachbarschaft
+
+Sie fliegen die Drohne in der Nähe von Menschen, damit diese die Drohne auffangen können, falls Sie die Kontrolle verlieren sollten
+
+- [x] Sie fliegen die Drohne in einem sicheren Umfeld z. B. in einem abgelegenen Gebiet (Feld, Wiese...)
+
+
+
+<br>
+<br>
+
+
+Question: 9489
+Wenn Sie eine Aufnahme im Dronie-Modus planen:
+Bitte kreuzen Sie die richtigen Antworten an.
+
+- [x] Sollten Sie das Benutzerhandbuch lesen
+
+- [x] Sollten Sie sich von Gebäuden und Hindernissen fernhalten
+
+- [x] Sollten Sie jemanden bitten, für 5 Minuten die Beobachterrolle zu übernehmen
+
+Sollten Sie die Menschen in Ihrer Umgebung informieren, sich nicht zu bewegen
+
+
+
+<br>
+<br>
+
+
+Question: 9491
+Welche Maßnahmen sind zu ergreifen, wenn Sie die Funkverbindung zu Ihrer Drohne verlieren?
+Kreuzen Sie bitte die richtigen Antworten an.
+
+- [x] Den Zwischenfall melden
+
+- [x] Die DAC über den Verlust der Drohne informieren
+
+Die Antennen neu ausrichten
+
+Sich der Drohne nähern
+
+
+<br>
+<br>
+
+
+Question: 9495
+Wie können Sie sicherstellen, dass Ihre Drohne sicher und betriebsbereit ist?
+Kreuzen Sie bitte die richtigen Antworten an.
+
+überrüfen Sie Ihre Drohne erst im Flug auf eventuelle ungewöhnliche Reaktionen
+
+Lagern Sie die Drohne außerhalb der Verpackung an einem dunkelen Ort
+
+- [x] Führen Sie ein Flugbuch über Ereignisse und Reparaturen
+
+- [x] überprüfen Sie Ihre Drohne nach dem Betrieb
+- [ ] 
+
+
+<br>
+<br>
