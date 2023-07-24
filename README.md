@@ -23,7 +23,7 @@ Wählen Sie die richtige Antwort.
 
 
 <br>
-
+<br>
 
 Question: 8116
 Welche Kombination aus "Drohnen-Kennzeichnung" und "OPEN-Unterkategorie" ermöglicht den nächsten Betrieb zu unbeteiligten Personen?
@@ -37,7 +37,7 @@ Wählen Sie bitte die richtige Antwort.
 
 - C3 / A2
 
-
+<br>
 <br>
 
 XXXXXXX Question: 8113
@@ -55,6 +55,7 @@ Kreuzen Sie bitte die richtigen Antworten an.
 - [x] Der Betrieb wird in Stadtgebieten durchgeführt
 
 <br>
+<br>
 
 Question: 8641
 Nach der Übergangszeit (ab dem 1. Januar 2024):
@@ -69,6 +70,7 @@ Wählen Sie bitte die richtige Antwort.
 - fallen Drohnen mit C0-Kennzeichnung in die Unterkategorie A2
 
 
+<br>
 <br>
 
 
@@ -86,6 +88,7 @@ Bitte wählen Sie die richtige Antwort.
 
 
 <br>
+<br>
 
 
 XXXXXXX Question: 9475
@@ -102,6 +105,7 @@ Wählen Sie bitte die richtigen Antworten.
 
 
 <br>
+<br>
 
 XXXXXXX Question: 8639
 Welchen Abstand müssen Sie von Wohn-, Gewerbe-, Industrie- oder Freizeitgebieten einhalten, wenn Sie eine Drohne in der Unterkategorie A3 fliegen?
@@ -116,6 +120,7 @@ Wählen Sie bitte die richtige Antwort.
 50 Meter
 
 
+<br>
 <br>
 
 
@@ -132,6 +137,7 @@ A1/A2/A3
 Nur A2/A3
 
 
+<br>
 <br>
 
 
@@ -151,6 +157,7 @@ Nur A3
 
 
 
+<br>
 <br>
 
 Question: 8650
