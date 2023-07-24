@@ -153,9 +153,9 @@ Nur A1
 
 A2 und A3
 
-- [x] A1 und A2
+ A1 und A2
 
-Nur A3
+- [x] Nur A3
 
 
 
