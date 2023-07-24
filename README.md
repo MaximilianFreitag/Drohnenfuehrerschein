@@ -320,3 +320,21 @@ A1/A2/A3
 xxxxxx Nur A1/A3
 
 xxxxxxx Nur A3
+
+
+<br>
+<br>
+
+
+
+Question: 8648
+Was müssen Sie tun wenn sich während dem Flug ein meldepflichtiger Zwischenfall ereignet?
+Wählen Sie die richtige Antwort
+
+Den Zwischenfall bei der DAC melden
+
+Den Zwischenfall bei der EASA melden
+
+Den Zwischenfall bei der Polizei melden
+
+- [x] Den Zwischenfall auf www.aviationreporting.eu melden
