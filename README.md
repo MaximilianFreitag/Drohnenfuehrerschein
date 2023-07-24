@@ -898,3 +898,20 @@ Turbulenzen
 <br>
 <br>
 
+
+
+Question: 8668
+Um "beteiligt" an einem Drohnenbetrieb zu sein, sollte eine unbeteiligte Person:
+Wählen Sie bitte die richtige Antwort.
+
+Eine positive Einstellung haben, lächeln und ihrem Kind die Drohne mit dem Finger zeigen
+
+Das online Training absolvieren und selbst Fernpilot werden
+
+In der Nähe des Fernpiloten bleiben um eventuelle Risiken bei einem ungewohntem Verhalten der Drohne zu vermeiden
+
+- [x] Ihre ausdrückliche Zustimmung geben und Anweisungen bezüglech der Drohne und des Drohnenbetriebs erhalten
+ 
+
+<br>
+<br>
