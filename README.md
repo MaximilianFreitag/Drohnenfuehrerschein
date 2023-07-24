@@ -985,6 +985,7 @@ bei Erreichen von 25% - landen Sie sofort, egal was Sie überfliegen
 
 
 
+
 Question: 8678
 Sie haben gerade Ihre brandneue Drohne erhalten und fliegen sie zum ersten Mal
 Bitte wählen Sie die richtige Antwort.
