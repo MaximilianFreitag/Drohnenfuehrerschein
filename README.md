@@ -52,9 +52,9 @@ Kreuzen Sie bitte die richtigen Antworten an.
 
 - Der Betreiber fliegt die Drohne mit einer sehr hohen Geschwindigkeit (Beispiel: 120km/h)
 
-- [x] Der Betrieb wird im kontrollierten Luftraum durchgeführt
+-  Der Betrieb wird im kontrollierten Luftraum durchgeführt
 
-- [x] Der Betrieb wird in Stadtgebieten durchgeführt
+-  Der Betrieb wird in Stadtgebieten durchgeführt
 
 <br>
 <br>
