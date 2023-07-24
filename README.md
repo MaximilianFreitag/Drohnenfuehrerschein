@@ -671,3 +671,33 @@ Wählen Sie bitte die richtigen Antworten.
 
 <br>
 <br>
+
+
+XXXXXX Question: 9481
+Besondere Aufmerksamkeit ist geboten beim Hochladen von:
+Wählen Sie bitte die richtigen Antworten.
+
+persöhnlichen Identifikations-Daten
+
+Registrierungsnummer des UAS-Betreibers in das direkte Fernidentifikationssystem
+
+Daten über geografische UAS-Gebiete in das Geo-Sensibilisierungssystem
+
+AIP-Daten des Tages (Aeronautical Information Publication)
+
+
+<br>
+<br>
+
+
+XXXXXXX Question: 9481
+Besondere Aufmerksamkeit ist geboten beim Hochladen von:
+Wählen Sie bitte die richtigen Antworten.
+
+persöhnlichen Identifikations-Daten
+
+Registrierungsnummer des UAS-Betreibers in das direkte Fernidentifikationssystem
+
+Daten über geografische UAS-Gebiete in das Geo-Sensibilisierungssystem
+
+AIP-Daten des Tages (Aeronautical Information Publication)
