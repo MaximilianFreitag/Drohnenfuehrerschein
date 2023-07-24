@@ -355,3 +355,28 @@ Ja, wenn diese Bilder und Videos im privaten Kreis aufgenommen werden
 Ja, wenn diese Bilder und Videos nicht im Internet geteilt werden
 
 - [x] Nein, vorausgesetzt Sie haben deren Erlaubnis
+
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+
+
+
+
+
+### Modul 2 - Prüfung
+https://learningzone.eurocontrol.int/
+
+---------------------------------------------------
+XXXXXXX = Die Antworten auf die Frage ist falsch
+
+Die Antworten der restlichen Fragen sind zu 100% richtig
+---------------------------------------------------
