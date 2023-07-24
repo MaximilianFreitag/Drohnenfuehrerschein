@@ -1067,3 +1067,22 @@ Bei den GPS-Koordinaten für die beste Aussicht
 Beim Zooming der Kamera
 
 - [x] Bei der RTH-Höhe
+
+
+
+<br>
+<br>
+
+
+Question: 8120
+Wie kann der Entscheidungsprozess OODA vereinfacht erklärt werden?
+Wählen Sie bitte die richtige Antwort.
+
+Drohnen stellen neue Optimale Opportunitäten auf dem europäischen Markt dar. Jeder Drohnenbetreiber sollte ein entsprechendes Geschäftmodell entwerfen, eine Entscheidung (Decision) treffen und entsprechend Agieren.
+
+- [x]  Ungewöhnliche Situationen sollten städig Observiert werden. Es sollten Optionen für deren Bewältigung identifiziert und abgewogen werden. Auf Grundlage dieser schnellen Analyse sollte der Fernpilot eine Entscheidung ("Decision")treffen und dementsprechend Agieren
+
+Objekte in der Nähe des Drohnenbetriebs sollten mithilfe von  
+Optischen Hilfsmitteln erkannt werden. Es sollte eine Strategie ausgearbeitet werden, um diesen Objekten auszuweichen. Auf Grundlage dieser Strategie sollte der Fernpilot eine Entscheidung ("Decision") treffen und entsprechend Agieren.
+
+Versäumnisse sind auch im Drohnenbetrieb Obwaltend. Empfehlungen von Ortskundigen Experten sollten deshalb berücksichtigt werden. Auf Grundlage dieser Informationen sollte der Fernpilot eine Entscheidung ("Decision") treffen und entsprechend Agieren.
