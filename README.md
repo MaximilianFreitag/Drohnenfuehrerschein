@@ -107,15 +107,15 @@ Wählen Sie bitte die richtigen Antworten.
 <br>
 <br>
 
-XXXXXXX Question: 8639
+Question: 8639
 Welchen Abstand müssen Sie von Wohn-, Gewerbe-, Industrie- oder Freizeitgebieten einhalten, wenn Sie eine Drohne in der Unterkategorie A3 fliegen?
 Wählen Sie bitte die richtige Antwort.
 
 200 Meter
 
-150 Meter
+- [x] 150 Meter
 
-- [x] 100 Meter
+100 Meter
 
 50 Meter
 
