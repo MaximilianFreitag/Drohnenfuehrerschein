@@ -22,7 +22,7 @@ Question: 8116
 Welche Kombination aus "Drohnen-Kennzeichnung" und "OPEN-Unterkategorie" ermöglicht den nächsten Betrieb zu unbeteiligten Personen?
 Wählen Sie bitte die richtige Antwort.
 
-[x] C0 / A1
+- [x] C0 / A1
 
 -  C4 / A3
 
