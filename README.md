@@ -303,3 +303,20 @@ C0-C1-C2-C3-C4
 - [x] A1–A2–A3
 
 A1–A2–A3–A4
+
+
+<br>
+<br>
+
+
+Question: 8640
+Während der Übergangszeit (vor dem 1. Januar 2024) sind Drohnen OHNE C-Kennzeichnung und von weniger als 500g, in folgender/en Kategorie(n) erlaubt:
+Wählen Sie bitte die richtige Antwort.
+
+Nur A2/A3
+
+A1/A2/A3
+
+xxxxxx Nur A1/A3
+
+- [x] Nur A3
