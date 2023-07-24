@@ -272,3 +272,19 @@ Nur in Belgien, in den Niederlanden und in Luxemburg (BENELUX)
 Nur in Luxemburg
 
 Nur in Luxemburg, Deutschland, Frankreich und Belgien
+
+
+<br>
+<br>
+
+Question: 8115
+In welcher/en OPEN-Unterkategorie(n) sind die "größeren" Drohnen mit der Kennzeichnung C3 & C4 erlaubt?
+Wählen Sie bitte die richtige Antwort.
+
+Nur A1
+
+Nur A3
+
+- [x] A2 und A3
+
+A1, A2 und A3
