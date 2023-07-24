@@ -538,3 +538,20 @@ Den aerodynamischen Prinzipien von bemannten Leichtflugzeugen
 Den Informationen, die sich in den Onlineforen für Drohnen befinden
 
 - [x] Den Informationen im Benutzerhandbuch
+
+
+
+<br>
+<br>
+
+Question: 8129
+Warum ist es besonders wichtig während des Drohnenbetriebs den Luftraum ständig zu beobachten?
+Wählen Sie bitte die richtige Antwort.
+
+Wegen der Vögel, die sehr nahe an der Drohne vorbei fliegen und diese treffen könnten
+
+Weil Sie möglicherweise bei einem in der Nähe aufgetreteten Notfall helfen könnten
+
+Da es wichtig ist eine erhöhte Aktivität auf dem nächstgelegenen Flugplatz zu erkennen
+
+- [x] Da bemannte Flugzeuge die Drohnen nicht erkennen somit Ihnen nicht ausweichen können
