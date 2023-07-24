@@ -283,8 +283,8 @@ Wählen Sie bitte die richtige Antwort.
 
 Nur A1
 
-Nur A3
+- [x] Nur A3
 
-- [x] A2 und A3
+ A2 und A3
 
 A1, A2 und A3
