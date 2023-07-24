@@ -222,3 +222,23 @@ Mit einer schwereren Drohne ist es sicherer, weiter weg vom Boden zu fliegen, um
 Mit einer schwereren Drohne ist es sicherer, weiter entfernt vom Piloten zu fliegen, um die Drohne sicher kontrollieren zu können
 
 Mit einer schwereren Drohne ist es sicherer, näher am Boden zu fliegen, um mögliche Verletzungen von Personen und Schäden bei einem Absturz zu reduzieren
+
+<br>
+<br>
+
+
+Question: 9474
+Wofür kann ein Fernpilot verantwortlich gemacht werden?
+Wählen Sie bitte die richigen Antworten.
+
+- [x] Visuelle Umweltverschmutzung
+
+- [x] Eigentumsbeschädigung
+
+- [x] Lärm
+
+- [x] Körperverletzung
+
+
+<br>
+<br>
