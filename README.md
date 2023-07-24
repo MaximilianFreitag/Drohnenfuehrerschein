@@ -1,6 +1,10 @@
 # Drohnenfuehrerschein
 Drohnenführerschein
 
+---------------------------------------------------
+XXXXXXX = Die Antwort auf die Frage ist falsch
+Die Antworten der restlichen Fragen sind zu 100% richtig
+---------------------------------------------------
 
 Question: 8646
 Bei welchen Drohnen müssen Sie sich NICHT als Drohnenbertreiber registrieren?
@@ -33,7 +37,7 @@ Wählen Sie bitte die richtige Antwort.
 
 
 
-Question: 8113
+XXXXXXX Question: 8113
 Welche der folgenden Situationen erfordern eine Registrierung des Betreibers?
 Kreuzen Sie bitte die richtigen Antworten an.
 
@@ -81,7 +85,7 @@ Bitte wählen Sie die richtige Antwort.
 
 
 
-Question: 9475
+XXXXXXX Question: 9475
 Welche Zwischenfälle sind meldepflichtig?
 Wählen Sie bitte die richtigen Antworten.
 
@@ -96,7 +100,7 @@ Wählen Sie bitte die richtigen Antworten.
 
 
 
-Question: 8639
+XXXXXXX Question: 8639
 Welchen Abstand müssen Sie von Wohn-, Gewerbe-, Industrie- oder Freizeitgebieten einhalten, wenn Sie eine Drohne in der Unterkategorie A3 fliegen?
 Wählen Sie bitte die richtige Antwort.
 
@@ -112,7 +116,7 @@ Wählen Sie bitte die richtige Antwort.
 
 
 
-Question: 8642
+XXXXXXX Question: 8642
 Nach der Übergangszeit (ab dem 01/01/2024) sind Drohnen ohne C-Kennzeichnung und mit einem Gewicht von weniger als 250g in folgender/en Unterkategorie(n) erlaubt:
 Wählen Sie bitte die richtige Antwort.
 
@@ -130,7 +134,7 @@ Nur A2/A3
 
 
 
-Question: 8117
+XXXXXXX Question: 8117
 In welcher/en OPEN-Unterkategorie(n) ist eine Drohne, OHNE C-Kennzeichnung und einem Gewicht zwischen 0,5 und 2kg, während der Übergangszeit (vor Januar 2024) erlaubt?
 Bitte wählen Sie die richtige Antwort.
 
