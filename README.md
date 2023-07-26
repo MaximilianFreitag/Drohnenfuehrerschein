@@ -1,7 +1,7 @@
 # Kleiner Drohnenfuehrerschein A1/A3 (Stand: Juli 2023)
 
 ### Modul 1 - Prüfung
-Hier kann man den Drohnenschein kostenlos machen --> https://learningzone.eurocontrol.int/
+Hier kann man den Drohnenschein kostenlos machen (5 Jahre gültig) --> https://learningzone.eurocontrol.int/
 
 ---------------------------------------------------
 
