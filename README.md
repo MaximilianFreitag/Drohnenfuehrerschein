@@ -1,4 +1,4 @@
-# Kleiner Drohnenfuehrerschein A1/A3
+# Kleiner Drohnenfuehrerschein A1/A3 (Stand: Juli 2023)
 
 ### Modul 1 - Prüfung
 https://learningzone.eurocontrol.int/
